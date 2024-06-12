@@ -1,7 +1,7 @@
 package com.example.projectfumctionandswitch;
 import java.util.Scanner;
 public class HelloApplication  {
-
+//hola
     public static void print(String data){
         System.out.println(data);
     }
